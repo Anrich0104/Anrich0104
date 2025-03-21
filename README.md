@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Currently studying BSC Information Technology at NWU(North-West University)<br>🎨I like blending my create side with tech<br>🌐Im currently doing a full stack web development course with Udemy<br>
+💻Currently studying BSC Information Technology at NWU(North-West University)<br>🎨I like blending my creative side with tech<br>🌐Im currently doing a full stack web development course with Udemy<br>
 
 
 ## 🌐 Socials:
