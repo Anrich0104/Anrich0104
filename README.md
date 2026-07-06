@@ -1,8 +1,8 @@
 # Hi 👋, I'm Anrich Kruger
 
-### Computer Science and Information Systems honours student
+### Computer Science and Information Systems honours student @NWU
 
-- 🔭 I'm currently working on<br>
+- 🔭 I'm currently working on-<br>
    **Research: Early hypertension detection using Kolmogorov-Arnold Networks 
   <br>a Group project : Graphical interface for the HartSpec CLC radio astronomy pipeline for HartRAO(Company)**
 
