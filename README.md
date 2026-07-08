@@ -16,7 +16,7 @@ a Group project : Graphical interface for the HartSpec CLC radio astronomy pipel
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Anrich0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Anrich0104" height="30" width="40" /></a>
-<a href="linkedin.com/in/anrich-kruger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anrich-kruger-7a8a8a336?" height="30" width="40" /></a>
+<a href="[linkedin.com/in/anrich-kruger](https://www.linkedin.com/in/anrich-kruger/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anrich-kruger-7a8a8a336?" height="30" width="40" /></a>
 <a href="https://instagram.com/anrichkruger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anrichkruger" height="30" width="40" /></a>
 </p>
 
